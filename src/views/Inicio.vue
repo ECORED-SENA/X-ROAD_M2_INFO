@@ -6,7 +6,7 @@ section
     .titulo__template--a.mb-4
       span.h6 1. Presentación
 
-    p El programa configurar escenario de interoperabilidad mediante X-ROAD, introducirá a los participantes al diseño e implementación de escenarios de interoperabilidad entre diferentes tipos de sistemas de información y conocimiento, para interactuar hacia objetivos mutuamente beneficiosos, con el propósito de facilitar la entrega de servicios digitales a ciudadanos, empresas y a otras entidades, mediante el intercambio de datos entre sus sistemas TIC, a partir de los elementos y características de la plataforma X-Road, creando una solución de software que involucre un escenario común de interoperabilidad, mediante el uso de la plataforma X-Road.
+    p El programa Configurar Escenario de Interoperabilidad mediante X-ROAD, introducirá a los participantes en el diseño e implementación de escenarios de interoperabilidad entre diferentes tipos de sistemas de información y conocimiento, con el propósito de facilitar la entrega de servicios digitales a ciudadanos, empresas y otras entidades. Todo esto, a través, del intercambio de datos entre sus sistemas TIC y los elementos y características de la plataforma X-ROAD, que permitirá brindar una solución de software en un escenario común de interoperabilidad.
 
   .container.tarjeta.tarjeta__template--azul-claro.px-3.py-4.px-sm-5.pb-sm-5.mb-5
         
@@ -15,7 +15,7 @@ section
   
     .row
       .col-12.col-md-8.col-lg-9
-        p.mb-4 El programa virtual Configurar escenario de interoperabilidad mediante X-ROAD, introducirá a los participantes al diseño e implementación de escenarios de interoperabilidad entre diferentes tipos de sistemas de información y conocimiento, para interactuar hacia objetivos mutuamente beneficiosos, con el propósito de facilitar la entrega de servicios digitales a ciudadanos, empresas y a otras entidades, mediante el intercambio de datos entre sus sistemas TIC, a partir de los elementos y características de la plataforma X-Road, creando una solución de software que involucre un escenario común de interoperabilidad, mediante el uso de la plataforma X-Road. 
+        p.mb-4 El programa Configurar Escenario de Interoperabilidad mediante X-ROAD, introducirá a los participantes en el diseño e implementación de escenarios de interoperabilidad entre diferentes tipos de sistemas de información y conocimiento, con el propósito de facilitar la entrega de servicios digitales a ciudadanos, empresas y otras entidades. Todo esto, a través, del intercambio de datos entre sus sistemas TIC y los elementos y características de la plataforma X-ROAD, que permitirá brindar una solución de software en un escenario común de interoperabilidad.
 
         p Es así como el SENA, a través de la formación que imparte, permite mantener actualizado el recurso humano con las competencias técnicas y sociales que permiten impactar al sector productivo positivamente, suministrando el conocimiento requerido para el cumplimiento de los planes de Gobierno Nacional a través del programa Configurar escenario de interoperabilidad mediante X-ROAD
 
@@ -42,7 +42,7 @@ section
     ul.lista-ul
       li.d-flex  
         i.fas.fa-angle-right
-        | Servidores Públicos (funcionarios y Contratistas). 
+        | Servidores Públicos (Funcionarios y Contratistas). 
       li.d-flex  
         i.fas.fa-angle-right
         | CIOs, Lideres TI, Servidores de oficinas TI. 

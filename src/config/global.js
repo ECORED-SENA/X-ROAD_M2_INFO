@@ -1,9 +1,10 @@
 export const global = {
-  nombrePrograma: 'Gobierno Digital e Interoperabilidad',
+  nombrePrograma:
+    'Configuración de software para un escenario común de interoperabilidad',
   codigo: '21710099',
   horas: 48,
   semanas: '4 semanas',
-  modalidad: 'virtual',
+  modalidad: 'Virtual',
   requisitosIngrso: [
     'Fotocopia del documento de identidad',
     'Competencias básicas en lecto escritura',
