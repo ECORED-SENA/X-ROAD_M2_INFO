@@ -306,11 +306,11 @@ export const creditos = {
     },
     {
       nombre: [
+        'Gilberto Junior Rodriguez Rodriguez',
         'María Natalia Maldonado Delgado',
-        'Luis Gabriel Urueta Alvarez',
+        'Nelson Vera Briceño',
+        'Wilson Andres Arenales Caceres',
         'Zuleidy Maria Ruiz Torres',
-        'Andrés Felipe Herrera Roldan',
-        'Víctor Cardenas',
       ],
       cargo: 'Diseño web y Producción Audiovisual',
     },
