@@ -4,7 +4,7 @@ export const global = {
   codigo: '21710099',
   horas: 48,
   semanas: '4 semanas',
-  modalidad: 'Virtual',
+  modalidad: 'virtual',
   requisitosIngrso: [
     'Fotocopia del documento de identidad',
     'Competencias básicas en lecto escritura',
