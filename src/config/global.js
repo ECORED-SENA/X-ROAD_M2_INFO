@@ -283,18 +283,6 @@ export const creditos = {
       centro: 'Centro para la Industria de la Comunicación Gráfica',
       regional: 'Regional Distrito Capital',
     },
-    {
-      nombre: 'Vilma Lucia Perilla M.',
-      cargo: 'Revisora y evaluadora metodológica',
-      centro: 'Centro para la Industria de la Comunicación Gráfica',
-      regional: 'Regional Distrito Capital',
-    },
-    {
-      nombre: 'Sandra Patricia Hoyos Sepúlveda',
-      cargo: 'Correción de estilo',
-      centro: 'Centro para la Industria de la Comunicación Gráfica',
-      regional: 'Regional Distrito Capital',
-    },
   ],
   desarrolloProducto: [
     {
@@ -320,7 +308,7 @@ export const creditos = {
       cargo: 'Desarrollo Front-End',
     },
     {
-      nombre: 'María Isabel Román Rueda',
+      nombre: 'Yuli Marcela Gómez Tarazona',
       cargo: 'Validación de diseño y contenido',
     },
     {
