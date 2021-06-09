@@ -1,6 +1,5 @@
 export const global = {
-  nombrePrograma:
-    'Configuración de software para un escenario común de interoperabilidad',
+  nombrePrograma: 'Configurar escenario de interoperabilidad mediante X-ROAD',
   codigo: '21710099',
   horas: 48,
   semanas: '4 semanas',

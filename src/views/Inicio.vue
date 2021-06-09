@@ -6,7 +6,7 @@ section
     .titulo__template--a.mb-4
       span.h6 1. Presentación
 
-    p El programa Configuración de software para un escenario común de interoperabilidad, introducirá a los participantes en el diseño e implementación de escenarios de interoperabilidad entre diferentes tipos de sistemas de información y conocimiento, con el propósito de facilitar la entrega de servicios digitales a ciudadanos, empresas y otras entidades. Todo esto, a través, del intercambio de datos entre sus sistemas TIC y los elementos y características de la plataforma X-ROAD, que permitirá brindar una solución de software en un escenario común de interoperabilidad.
+    p El programa virtual Configurar escenario de interoperabilidad mediante X-ROAD, introducirá a los participantes al diseño e implementación de escenarios de interoperabilidad entre diferentes tipos de sistemas de información y conocimiento, para interactuar hacia objetivos mutuamente beneficiosos, con el propósito de facilitar la entrega de servicios digitales a ciudadanos, empresas y a otras entidades, mediante el intercambio de datos entre sus sistemas TIC, a partir de los elementos y características de la plataforma X-Road, creando una solución de software que involucre un escenario común de interoperabilidad, mediante el uso de la plataforma X-Road.
 
   .container.tarjeta.tarjeta__template--azul-claro.px-3.py-4.px-sm-5.pb-sm-5.mb-5
         
@@ -15,9 +15,9 @@ section
   
     .row
       .col-12.col-md-8.col-lg-9
-        p.mb-4 El programa Configuración de software para un escenario común de interoperabilidad, introducirá a los participantes en el diseño e implementación de escenarios de interoperabilidad entre diferentes tipos de sistemas de información y conocimiento, con el propósito de facilitar la entrega de servicios digitales a ciudadanos, empresas y otras entidades. Todo esto, a través, del intercambio de datos entre sus sistemas TIC y los elementos y características de la plataforma X-ROAD, que permitirá brindar una solución de software en un escenario común de interoperabilidad.
+        p.mb-4 El programa virtual Configurar escenario de interoperabilidad mediante X-ROAD, introducirá a los participantes al diseño e implementación de escenarios de interoperabilidad entre diferentes tipos de sistemas de información y conocimiento, para interactuar hacia objetivos mutuamente beneficiosos, con el propósito de facilitar la entrega de servicios digitales a ciudadanos, empresas y a otras entidades, mediante el intercambio de datos entre sus sistemas TIC, a partir de los elementos y características de la plataforma X-Road, creando una solución de software que involucre un escenario común de interoperabilidad, mediante el uso de la plataforma X-Road.
 
-        p Es así como el SENA, a través de la formación que imparte, permite mantener actualizado el recurso humano con las competencias técnicas y sociales que permiten impactar al sector productivo positivamente, suministrando el conocimiento requerido para el cumplimiento de los planes de Gobierno Nacional a través del programa Configuración de software para un escenario común de interoperabilidad.
+        p Es así como el SENA, a través de la formación que imparte, permite mantener actualizado el recurso humano con las competencias técnicas y sociales que permiten impactar al sector productivo positivamente, suministrando el conocimiento requerido para el cumplimiento de los planes de Gobierno Nacional a través del programa Configurar escenario de interoperabilidad mediante X-ROAD.
 
       .col-4.col-lg-3.d-none.d-md-block
         figure
