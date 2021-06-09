@@ -45,7 +45,7 @@ section
         | Servidores Públicos (funcionarios y contratistas). 
       li.d-flex  
         i.fas.fa-angle-right
-        | CIOs, Lideres TI, Servidores de oficinas TI. 
+        | CIOs, Líderes TI, Servidores de oficinas TI. 
       li.d-flex  
         i.fas.fa-angle-right
         | Personas que han manifestado el desarrollo de proyectos TI bajo el enfoque de interoperabilidad. 
@@ -60,9 +60,9 @@ section
     .titulo__template--a.mb-4
       span.h6 5. Estrategia<br>metodológica
 
-    p.mb-4 Centrada en la construcción de autonomía para garantizar la calidad de los procesos formativos   en el marco de la formación por competencias, el aprendizaje por proyectos y el  uso de  técnicas didácticas activas que estimulan el pensamiento para la resolución de problemas simulados y reales; soportadas en el utilización de las tecnologías de la información y la comunicación, integradas, en ambientes abiertos y pluri tecnológicos, que en todo caso recrean el contexto productivo y vinculan al aprendiz con la realidad cotidiana y el desarrollo de las competencias.
+    p.mb-4 Centrada en la construcción de autonomía para garantizar la calidad de los procesos formativos   en el marco de la formación por competencias, el aprendizaje por proyectos y el  uso de  técnicas didácticas activas que estimulan el pensamiento para la resolución de problemas simulados y reales; soportadas en la utilización de las tecnologías de la información y la comunicación, integradas, en ambientes abiertos y pluri tecnológicos, que en todo caso recrean el contexto productivo y vinculan al aprendiz con la realidad cotidiana y el desarrollo de las competencias.
 
-    p.mb-4 Igualmente, debe estimular de manera permanente la autocrítica y la reflexión del aprendiz sobre el que hacer y los resultados de aprendizaje que logra a través de la vinculación activa de las cuatro fuentes de información para la construcción de conocimiento.
+    p.mb-4 Igualmente, debe estimular de manera permanente la autocrítica y la reflexión del aprendiz sobre el quehacer y los resultados de aprendizaje que logra a través de la vinculación activa de las cuatro fuentes de información para la construcción de conocimiento.
 
     .row.g-4.justify-content-center
       .col-5.col-sm-3.col-md-2
